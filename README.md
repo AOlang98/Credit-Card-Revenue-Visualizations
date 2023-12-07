@@ -67,6 +67,6 @@ This project is licensed under the MIT License.
 ## Contact
 For questions or suggestions, feel free to reach out to the project maintainer:
 
-Austin Olang
-austinolang1@gmail.com
-https://github.com/AOlang98
+-Austin Olang
+-austinolang1@gmail.com
+-https://github.com/AOlang98
